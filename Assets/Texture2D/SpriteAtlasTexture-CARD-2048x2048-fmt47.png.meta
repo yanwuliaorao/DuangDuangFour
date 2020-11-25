@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 7ec607ec63a5f0a4c9c48f9effebdd80
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteAtlasTexture-CARD-2048x2048-fmt47_0
+    21300002: SpriteAtlasTexture-CARD-2048x2048-fmt47_1
+    21300004: SpriteAtlasTexture-CARD-2048x2048-fmt47_2
+    21300006: SpriteAtlasTexture-CARD-2048x2048-fmt47_3
+    21300008: SpriteAtlasTexture-CARD-2048x2048-fmt47_4
+    21300010: SpriteAtlasTexture-CARD-2048x2048-fmt47_5
+    21300012: SpriteAtlasTexture-CARD-2048x2048-fmt47_6
+    21300014: SpriteAtlasTexture-CARD-2048x2048-fmt47_7
+    21300016: SpriteAtlasTexture-CARD-2048x2048-fmt47_8
+    21300018: SpriteAtlasTexture-CARD-2048x2048-fmt47_9
+    21300020: SpriteAtlasTexture-CARD-2048x2048-fmt47_10
+    21300022: SpriteAtlasTexture-CARD-2048x2048-fmt47_11
+    21300024: SpriteAtlasTexture-CARD-2048x2048-fmt47_12
+    21300026: SpriteAtlasTexture-CARD-2048x2048-fmt47_13
+    21300028: SpriteAtlasTexture-CARD-2048x2048-fmt47_14
+    21300030: SpriteAtlasTexture-CARD-2048x2048-fmt47_15
+    21300032: SpriteAtlasTexture-CARD-2048x2048-fmt47_16
+    21300034: SpriteAtlasTexture-CARD-2048x2048-fmt47_17
+    21300036: SpriteAtlasTexture-CARD-2048x2048-fmt47_18
+    21300038: SpriteAtlasTexture-CARD-2048x2048-fmt47_19
+    21300040: SpriteAtlasTexture-CARD-2048x2048-fmt47_20
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0777d99527a5b694fa50bdaf93f1e6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ecb0e143c8624db727cf92518f2a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ff4225ddbe6542a8a62054c7ef21f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd599280d11e34443b8b8c9927dda374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_4
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dca1ca1da92434fa12fdff4bae9a73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_5
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b05272300bd3b346bea712a02134bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_6
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb951ce16a46754f87f6e70ebca373a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_7
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b22c24a104c4d40abfd349aad906ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_8
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 3
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2db78875eb32a54194ca757aaed99a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_9
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 315
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff97a51494ce44b4b8e54826e221deeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_10
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 627
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5590b54ba3703694b9c0563e1ff939de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_11
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 939
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83efc9808b414439b14c686cf336bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_12
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1250
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa57e2da199e243bbf26eacccf4220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_13
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1563
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d172c8c8ee7cf4a8f6827ae7045dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_14
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1563
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dbe7d65dacb764cbd815b17f681cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_15
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1563
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca6a7d956c9acf45833c690de2d798c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_16
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1563
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba534dbcd232e94bbcdea9047e6a49d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_17
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1563
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0b7d2f767f6a438e05d1257dadec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1563
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362b32b579ca5d545963642838424803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1564
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc350c9d1a0c73643b4f49e9095417dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-CARD-2048x2048-fmt47_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1563
+        width: 221
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8846e61c84859f4d8e3bb9c617e1fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a25820dc75f1a7542b8fcf5f9b26447f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

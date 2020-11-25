@@ -1,0 +1,1600 @@
+fileFormatVersion: 2
+guid: 6822890a853f4e94dac7c515a89e92a9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_0'
+    21300002: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_1'
+    21300004: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_2'
+    21300006: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_3'
+    21300008: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_4'
+    21300010: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_5'
+    21300012: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_6'
+    21300014: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_7'
+    21300016: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_8'
+    21300018: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_9'
+    21300020: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_10'
+    21300022: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_11'
+    21300024: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_12'
+    21300026: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_13'
+    21300028: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_14'
+    21300030: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_15'
+    21300032: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_16'
+    21300034: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_17'
+    21300036: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_18'
+    21300038: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_19'
+    21300040: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_20'
+    21300042: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_21'
+    21300044: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_22'
+    21300046: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_23'
+    21300048: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_24'
+    21300050: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_25'
+    21300052: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_26'
+    21300054: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_27'
+    21300056: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_28'
+    21300058: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_29'
+    21300060: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_30'
+    21300062: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_31'
+    21300064: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_32'
+    21300066: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_33'
+    21300068: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_34'
+    21300070: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_35'
+    21300072: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_36'
+    21300074: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_37'
+    21300076: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_38'
+    21300078: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_39'
+    21300080: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_40'
+    21300082: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_41'
+    21300084: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_42'
+    21300086: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_43'
+    21300088: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_44'
+    21300090: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_45'
+    21300092: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_46'
+    21300094: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_47'
+    21300096: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_48'
+    21300098: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_49'
+    21300100: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_50'
+    21300102: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_51'
+    21300104: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_52'
+    21300106: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_53'
+    21300108: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_54'
+    21300110: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_55'
+    21300112: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_56'
+    21300114: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_57'
+    21300116: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_58'
+    21300118: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_59'
+    21300120: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_60'
+    21300122: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_61'
+    21300124: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_62'
+    21300126: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_63'
+    21300128: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_64'
+    21300130: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_65'
+    21300132: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_66'
+    21300134: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_67'
+    21300136: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_68'
+    21300138: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_69'
+    21300140: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_70'
+    21300142: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_71'
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1412
+        width: 793
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3c6c40a25da14cb43927b739ef956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_1'
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1652
+        width: 325
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c3068ba2f12248a2a7dbe8bafff61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_2'
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1547
+        width: 739
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04d06296152d148b2032c0f363011e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_3'
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1724
+        width: 236
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d058d95c282548864c76c4062ad4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_4'
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1667
+        width: 130
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff2ed99e92cd944a5bafa89d828941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_5'
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1670
+        width: 190
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae34638a4667d45a60824e72b03290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_6'
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1248
+        width: 267
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a09cef769c2a242ae41fda923dc24d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_7'
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1468
+        width: 346
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb03ce7bfb3ad4caad1c25508034ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_8'
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1472
+        width: 214
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ad93484b4da24587a82f3080e5fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_9'
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1424
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16287f596b6ea439965fe23221bcd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_10'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 580
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac882bc3251fe439051fb491e65cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_11'
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1116
+        width: 344
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950dd37b2e5700343b42be7e6861e745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_12'
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1259
+        width: 344
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5b75b3e580de4e939f31b9fbbe5a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_13'
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1180
+        width: 495
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3e50d925da1d4fae5011e21deba25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_14'
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 828
+        width: 382
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d174294d927ec1540932b5923f35c90d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_15'
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 940
+        width: 372
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0d702f0bfa633409cb77169cd35a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_16'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 988
+        width: 361
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1036b1fe8c8124ebad8b907d69c60e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_17'
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 951
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9746870916a4946be6dcb5ae0b858e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_18'
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 652
+        width: 493
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b9e4ce7b931e4eb4ff0cf4292366c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_19'
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 857
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d375fcee0f933d14b91b2b501db1f84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_20'
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 843
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de1dd81a5611264e81aab83320dcb34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_21'
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 834
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93b444b3762864f97d392d01dc0264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_22'
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 899
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4534ac74c5149447bc82e260377d988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_23'
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 904
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0999e46c49e708f4285326ae73d2cb8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_24'
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 903
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0968781101389b5419fc6843ac1318dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_25'
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 432
+        width: 209
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc81e61333ed2346b7ca2e89a069735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_26'
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 840
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ce9b8ff46195240ae3dbbb66077fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_27'
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 828
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620f8649cfa7eb3438b7d52b1745499a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_28'
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 508
+        width: 420
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f37a080eb4e8f4ca5bd7435fffab9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_29'
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 517
+        width: 420
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1628d7538f891f845b025bf4447d1207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_30'
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 754
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98121b4949832514a8af01d20d1c6511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_31'
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 792
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165f1fd60591bb46b847e0f05d13fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_32'
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 760
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3017dadc9984443ba963d05dd7483d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_33'
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 776
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd496b8b32aa6445a9bc4145f58e797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_34'
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 796
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a6b2c735458034cacd4fb485ff418f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_35'
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 797
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d37117aa03ebb46ae7b58270ff1337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_36'
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 756
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42355e41891cec6419a27774ce35254c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_37'
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 780
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407984b35b967e4c9544a18c7f13f8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_38'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 519
+        width: 106
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d44a11de23b6245a0d6f01c22205ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_39'
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 698
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19887e02151f62b4aab6cc18b74aee82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_40'
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 709
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c0b465c4855046b55f515f3537d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_41'
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 739
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afab75721da4546a92e1c06ac1d6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_42'
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 673
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617c5dfd1264834f9f0a5791658470c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_43'
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 657
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd6f241e677bd54fab774e43dcd9ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_44'
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 669
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac47ed9c22471074ba67683873a01f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_45'
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 685
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3eba98f01f116449724052c59efe76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_46'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d7135647dd6c348bef89154be500d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_47'
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 333
+        width: 428
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954b6f5b206ff8a40855b2b9456fe886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_48'
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 645
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974075db1db3304c85f9552c0496bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_49'
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 645
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5cd57a40b36b948ab10b56746847d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_50'
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 645
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998252eaee798c4fad8a61de90715cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_51'
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 645
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f301f353cf4214d84f639bd786b253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_52'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 368
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713d1b8bf7acfbe46a6744a590e24c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_53'
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 416
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab18fb6cc7e11e34bb13dd74dbc5974c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_54'
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 148
+        width: 320
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4444c02989cf1243bbc310ae0dc2c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_55'
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 339
+        width: 187
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16e0c028be88ba46a1048b8ef6ca095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_56'
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 154
+        width: 362
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144873bcf72cdb3499132482b93f35e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_57'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 296
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a88b8eb0f48a43ab80ac9d10548b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_58'
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 324
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83812f80cc39c443a62c32c245369c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_59'
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 209
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd199b0df31bb83428e77cd6a49636b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_60'
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 129
+        width: 135
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51512cb1c08ac0c4a8728ac5503b908a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_61'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 216
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0502ea726006c47a05b40031c9c0aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_62'
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 234
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4a55f10747054aa1011ec55d552dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_63'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 134
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ddc0355f25ec34b8b48ded12346b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_64'
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 139
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d3d3545e5f4c64eb164810a8d0fe20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_65'
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 1048
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7454d099728520949938ef793a0ffa9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_66'
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 67
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c420324133e2034fbd716ac9c8912f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_67'
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 58
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a4458c1ebd9d74a9a4670f51c8f9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_68'
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 68
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0dc53fa1f20574384622071e867925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_69'
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a29264d565b8d46a2c07a82f2f622b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_70'
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e45070b3cf22c4da90c250039b741e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'SpriteAtlasTexture-SHARED (Group 0)-2048x2048-fmt47 #20040_71'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608adf581d48f224db7a0a5b2118cc89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b871e9b79d95a5f4c8dd6751d5b1e792
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

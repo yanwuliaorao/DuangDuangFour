@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0a7e20cd06ded974a87ba5c53adfbce5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SmashingFourExtended
+  fontNames:
+  - SmashingFourExtended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 03ec37d40fe215a438f34912232cc0cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
